@@ -1,41 +1,72 @@
 ### Hi there 👋
 
 
-- 🔭 Areas I have experience within ...
+### - 🔭 Areas I have experience within ...
 
-🏆 WEB DEVELOPMENT 
+
+
+
+>🏆 WEB DEVELOPMENT 
+
 HTML, CSS, Java Script, React JS, JQuery, DOM, NODE JS, TypeScript, MONGODB, REST API, C#, ASP.NET
 MVC, SQL Server
-🏆 AUTOMATION & CI/CD
+
+>🏆 AUTOMATION & CI/CD
+
 Python, Jenkins, Robot Framework, Groovy, GIT-Gerrit.
 
 
+
+
 📚 Languages:
+
 🏆 JavaScript
+
 🏆 Python
+
 🏆 C#
 
+
 ☕ Backend:
+
 🏆 .NET Core
+
 🏆 Node.js
+
 🏆 Express.js
+
 🏆 Databases - (SQL server, MongoDB, Firebase, PostgreSQL)
+
 🏆 Authentication (JWT + Refresh token flow)
+
 🏆 Junit testing
+
 🏆 Maven build automation
+
 🏆 API:s - (creating & consuming) - (REST & GraphQL)
 
 
+
 ⚛️ Frontend:
+
 🏆 HTML, CSS, jQuery
+
 🏆 React.js
+
 🏆 Redux + Redux Toolkit
+
 🏆 React-Query
+
 🏆 Material UI
+
 🏆 Styled Components
+
 🏆 Sass
+
 🏆 Jest Unit testing
+
 🏆 Cypress testing
+
 
 
 🎒 Overall skills:
