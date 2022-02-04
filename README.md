@@ -8,8 +8,8 @@
 
 >🏆 WEB DEVELOPMENT 
 
-     HTML, CSS, Java Script, React JS, JQuery, DOM, NODE JS, TypeScript, MONGODB, REST API, C#, ASP.NET
-     MVC, SQL Server
+     HTML, CSS, Java Script, React JS, JQuery, DOM, NODE JS, TypeScript, MONGODB, REST API,
+     C#, ASP.NET MVC, SQL Server
 
 >🏆 AUTOMATION & CI/CD
 
